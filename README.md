@@ -1,5 +1,4 @@
-Learning  Machine Learning 
-Iris Machine Learning dataset is reused for Multiple Regression, KNN Classifier and Logistic Regression 
+Learning Machine Learning Using Iris Machine Learning dataset is reused for Multiple Regression, KNN Classifier and Logistic Regression 
 Iris plants dataset
 --------------------
 
